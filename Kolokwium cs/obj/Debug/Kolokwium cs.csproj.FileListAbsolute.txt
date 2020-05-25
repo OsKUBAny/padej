@@ -1,0 +1,10 @@
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\bin\Debug\Kolokwium cs.exe.config
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\bin\Debug\Kolokwium cs.exe
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\bin\Debug\Kolokwium cs.pdb
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\obj\Debug\Kolokwium cs.csprojAssemblyReference.cache
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\obj\Debug\Kolokwium_cs.Form1.resources
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\obj\Debug\Kolokwium_cs.Properties.Resources.resources
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\obj\Debug\Kolokwium cs.csproj.GenerateResource.cache
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\obj\Debug\Kolokwium cs.csproj.CoreCompileInputs.cache
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\obj\Debug\Kolokwium cs.exe
+D:\Users\THEku\Desktop\infa_2\Kolokwium cs\Kolokwium cs\obj\Debug\Kolokwium cs.pdb
